@@ -31,6 +31,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Dive into Python](http://www.diveintopython.net/toc/index.html) ([ru](http://diveinto.python.ru/toc.html))
 *   [Learn Python The Hard Way](http://learnpythonthehardway.org/)
 *   [Dive into Python 3](http://www.diveinto.org/python3/)
+*   [A Byte of python](http://swaroopch.com/notes/python/)
 
 ## Design
 *   [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
