@@ -32,6 +32,7 @@ Community driven list of *free online books and manuals* for front-end developer
 *   [Learn Python The Hard Way](http://learnpythonthehardway.org/)
 *   [Dive into Python 3](http://www.diveinto.org/python3/)
 *   [A Byte of python](http://swaroopch.com/notes/python/)
+*   [Python Data and structures](http://www.brpreiss.com/books/opus7/)
 
 ## Design
 *   [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
